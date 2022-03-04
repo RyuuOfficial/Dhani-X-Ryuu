@@ -1,10 +1,12 @@
 # SC-V5
-https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA
-
+Rest Api punya Dhani
 https://apidhani.herokuapp.com
 
 jika mau add fitur lain silakan mampir ke
 rest api gw yg ada di atas
+
+Kalo mau beli sc ke nomor gw aja
+(WhatsApp) [https://wa.me/6282316153393]
 
 Jangan lupa juga subscribe youtube saya
 
